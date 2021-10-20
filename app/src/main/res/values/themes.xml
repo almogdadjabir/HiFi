@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.HiFi" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor"> #0c1c3d </item>
+    </style>
+</resources>
